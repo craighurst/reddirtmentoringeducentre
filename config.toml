@@ -11,6 +11,8 @@ disqusShortname = "educenter" # get your shortname form here : https://disqus.co
 # disable language
 disableLanguages = [] # desable language from here
 
+
+
 ############################# Plugins ##############################
 
 # CSS Plugins
