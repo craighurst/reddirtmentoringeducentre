@@ -212,7 +212,6 @@ public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-publishDir: docs
 build:
   preview_env:
   - HUGO_ENV=staging
