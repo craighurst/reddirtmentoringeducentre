@@ -4,7 +4,7 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "James studies at the Australian National University after recieving a prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science."
 # teacher portrait
 image: "images/reddirt/James.webp"
 # course
