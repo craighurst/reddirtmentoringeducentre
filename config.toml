@@ -124,9 +124,9 @@ logo = "images/reddirt/logo_small.webp"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+#address = "9567 Turner Trace Apt. BC C3G8A4"
+mobile = "+61 0403 399 775"
+email = "president@reddirtmentoring.org"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -188,16 +188,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
