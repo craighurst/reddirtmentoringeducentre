@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org"
+baseURL = "https://master.d8sydgm7hgha9.amplifyapp.com/"
 title = "Red Dirt Mentoring "
 theme = "educenter"
 # post pagination
