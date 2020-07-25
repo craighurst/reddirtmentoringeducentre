@@ -71,7 +71,7 @@ sections:
 - type: heading
   label: Teacher
 - type: directory
-  path: exampleSite/content/english/teacher
+  path: content/english/teacher
   label: Teacher (en)
   create: all
   match: "**/*"
