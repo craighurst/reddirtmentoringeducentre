@@ -7,6 +7,6 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "We provide assistance to schools through our tutoring and mentoring sessions."
 ---
 
-We're always looking for new schools to help out. If you think your students could benefit from our help, let us know and we will organise a team to help you out!
+### Register your School ###
 
-president@reddirtmentoring.org
+We're always looking for new schools to help out. If you think your students could benefit from our help, let us know and we will organise a team to help you out!

@@ -61,6 +61,9 @@
 - id: teacher
   translation: teacher
 
+- id: team
+  translation: team
+
 - id: location
   translation: location
 
@@ -75,12 +78,12 @@
 
 - id: join
   translation: Join
-  
+
 - id: enter_email
   translation: Enter your email…
 
 - id: company
-  translation: company
+  translation: Charity
 
 - id: links
   translation: links

@@ -51,72 +51,53 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "team"
-URL = "course"
+name = "How it works"
+URL = "scholarship"
 weight = 2
 
 [[menu.main]]
+name = "School Registration"
+URL = "contact"
 weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  URL = "teacher"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "notice"
-  URL = "notice"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "event"
-  URL = "event"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  URL = "scholarship"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "research"
-  URL = "research"
 
 [[menu.main]]
-name = "blog"
-URL = "blog"
+name = "Get Involved"
+URL = "contact2"
 weight = 4
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Our Team"
+URL = "team"
 weight = 5
+
 
 
 # footer menu
 
 [[menu.footer]]
-name = "teacher"
-URL = "teacher"
+name = "About"
+URL = "about"
+weight = 1
 
 [[menu.footer]]
-name = "notice"
-URL = "notice"
-
-[[menu.footer]]
-name = "event"
-URL = "event"
-
-[[menu.footer]]
-name = "scholarship"
+name = "How it works"
 URL = "scholarship"
+weight = 2
 
 [[menu.footer]]
-name = "research"
-URL = "research"
+name = "School Registration"
+URL = "contact"
+weight = 3
+
+[[menu.footer]]
+name = "Get Involved"
+URL = "contact2"
+weight = 4
+
+[[menu.footer]]
+name = "Our Team"
+URL = "team"
+weight = 5
 
 
 #################### default parameters ################################
@@ -130,7 +111,7 @@ author = "Themefisher"
 mobile = "+61 0403 399 775"
 email = "president@reddirtmentoring.org"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/mvowdvwg" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # top header
@@ -143,7 +124,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -163,24 +144,19 @@ icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
+title = "email"
+icon = "ti-email" # icon pack : https://themify.me/themify-icons
+link = "mailto:president@reddirtmentoring.org"
+
+[[params.social]]
+name = "Call"
+icon = "ti-mobile" # icon pack : https://themify.me/themify-icons
+link = "tel:0403399775"
 
 
 ################################### English language #####################################

@@ -68,18 +68,18 @@ about:
 
 ############################# Course ################################
 course:
-  enable : true
+  enable : false
   title : "Our Team"
   # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Register your school"
+  title : "Red Dirt Mentoring can help your school"
   button:
     enable : true
-    label : "join now"
+    label : "register now"
     link : "contact"
 
 
@@ -90,19 +90,19 @@ success_story:
   title : "Great Success"
   content : "Red dirt mentoring worked closely with several schools to assist students with their studies"
   # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+  #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
 ############################# event ################################
 event:
-  enable : true
+  enable : false
   title : "Upcoming Events"
   # event item comes from "content/**/event" folder.
 
 
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
@@ -126,6 +126,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : true
+  enable : false
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.

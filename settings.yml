@@ -84,6 +84,21 @@ sections:
   match: "**/*"
   templates:
   - teacher
+  label: Team
+- type: directory
+  path: reddirtmentoringeducentre/content/english/team
+  label: Team (en)
+  create: all
+  match: "**/*"
+  templates:
+  - team
+- type: directory
+  path: reddirtmentoringeducentre/content/french/team
+  label: team (fr)
+  create: all
+  match: "**/*"
+  templates:
+  - team
 - type: heading
   label: Event
 - type: directory
