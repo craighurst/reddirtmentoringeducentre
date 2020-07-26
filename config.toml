@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://www.reddirtmentoring.org/"
+baseURL = "https://www.reddirtmentoring.org"
 title = "Red Dirt Mentoring "
 theme = "educenter"
 # post pagination
