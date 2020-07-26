@@ -9,19 +9,19 @@ course: President and Founder
 bio: James studies at the Australian National University after recieving a prestigious
   Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science.
 interest:
-- Computer Networking
-- Computer Security
-- Human Computer Interfacing
+- Aerospace Engineering and Rocketry
+- Political Science and International Relations
+- Cricket
 contact:
   # contact item loop
-  - name : "james.jude.hurst@gmail.com"
+  - name : "president@reddirtmentoring.org"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
-    link : "mailto:clarkmalik@email.com"
+    link : "mailto:president@reddirtmentoring.org"
 
   # contact item loop
-  - name : "0412312377"
+  - name : "0403 399 775"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:0412312377"
+    link : "tel:0403399775"
 
   # contact item loop
   - name : "James Hurst"
