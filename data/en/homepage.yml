@@ -4,7 +4,7 @@ slider:
   bg_image : "images/reddirt/Uluru_at_sunset_framed_by_a_tree_silhouette.jpg"
   slider_item:
     # slider item loop
-    - title : "Welcome to Red Dirt mentoring"
+    - title : "Welcome to Red Dirt Mentoring"
       content : "Sharing knowledge, one smile at a time"
       animation_in : ""
       animation_out : ""
@@ -33,14 +33,14 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "We help schools"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We help teachers with in class room tutoring and mentoring."
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "We zoom in"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Everything is totally virtual. Our dedicated team participate in classroom tutoring at all levels. "
 
     # feature item loop
     - name : "Our Achievements"
@@ -74,7 +74,7 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : false
+  enable : true
   subtitle : "Click to Join the Advance Workshop"
   title : "Training In Advannce Networking"
   button:
@@ -85,7 +85,7 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/success-story.jpg"
   title : "Great Success"
   content : "Red dirt mentoring worked closely with several schools to assist students with their studies"
@@ -102,7 +102,7 @@ event:
 
 ########################### funfacts ############################
 funfacts:
-  enable : false
+  enable : true
   funfact_item:
     # funfact item loop
     - name : "TEACHERS"
@@ -126,6 +126,6 @@ funfacts:
 
 ############################# blog ################################
 blog:
-  enable : false
+  enable : true
   title : "Latest News"
   # blog item comes from "content/**/blog" folder.
