@@ -1,20 +1,19 @@
 ---
-title: "James Hurst"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "James studies at the Australian National University after recieving a prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science."
-# teacher portrait
-image: "images/reddirt/James.webp"
-# course
-course: "President and Founder"
-# biography
-bio: "James studies at the Australian National University after recieving a prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science."
-# interest
-interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
-# contact info
+title: James Hurst
+bg_image: images/backgrounds/page-title.jpg
+description: James studies at the Australian National University after recieving a
+  prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical
+  Science.
+image: images/reddirt/James.webp
+course: President and Founder
+bio: James studies at the Australian National University after recieving a prestigious
+  Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science.
+interest:
+- Computer Networking
+- Computer Security
+- Human Computer Interfacing
 contact:
+<<<<<<< HEAD
   # contact item loop
   - name : "james.jude.hurst@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
@@ -52,13 +51,37 @@ contact:
 
 # type
 type: "teacher"
----
+=======
+- name: clarkmalik@email.com
+  icon: ti-email
+  link: mailto:clarkmalik@email.com
+- name: "+12 034 5876"
+  icon: ti-mobile
+  link: tel:+120345876
+- name: Clark Malik
+  icon: ti-facebook
+  link: "#"
+- name: Clark Malik
+  icon: ti-twitter-alt
+  link: "#"
+- name: Clark Malik
+  icon: ti-skype
+  link: "#"
+- name: clarkmalik.com
+  icon: ti-world
+  link: "#"
+- name: 1313 Boulevard Cremazie,Quebec
+  icon: ti-location-pin
+  link: "#"
 
+>>>>>>> ec9fe044325006171e5ca696e4cd0b685049df9d
+---
 ### About Me
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat.
-
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.
+My name is James Hurst, and I am currently an Engineering/Arts student at the Australian National University (ANU) in Canberra, and I would love to work with you. I have experience tutoring in any Maths, Japanese, Science or English subjects over a wide range of year levels. Please message me if my profile below interests you.  
+  
+I graduated as Dux of my high school in 2019, achieving an ATAR of 99.90 (OP 1), and receiving a QCAA Distinguished Academic Achiever Award, given to the top 30 students in Queensland for that year.  
+  
+I was also awarded the prestigious Tuckwell Scholarship, awarded to the top 25 all-round students who applied to the ANU, Australia's highest ranked university, where I have a GPA of 7.0.  
+  
+In year 12, I was School Vice-Captain, Chess Captain, in the Senior A Debating Team, 1st XI Cricket Team, and represented Queensland at the UNYouth National Evatt Competition. I was first in Maths B, Physics, Japanese and English at my school in 2019, and in 2018 was first in Maths B and Maths C.
