@@ -16,37 +16,37 @@ interest: ["Computer Networking","Computer Security","Human Computer Interfacing
 # contact info
 contact:
   # contact item loop
-  - name : "clarkmalik@email.com"
+  - name : "james.jude.hurst@gmail.com"
     icon : "ti-email" # icon pack : https://themify.me/themify-icons
     link : "mailto:clarkmalik@email.com"
 
   # contact item loop
-  - name : "+12 034 5876"
+  - name : "0412312377"
     icon : "ti-mobile" # icon pack : https://themify.me/themify-icons
-    link : "tel:+120345876"
+    link : "tel:0412312377"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Clark Malik"
+  #  icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
+  #  link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Clark Malik"
+  #  icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
+  #  link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-skype" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Clark Malik"
+  #  icon : "ti-skype" # icon pack : https://themify.me/themify-icons
+  #  link : "#"
 
   # contact item loop
-  - name : "clarkmalik.com"
-    icon : "ti-world" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "clarkmalik.com"
+  #  icon : "ti-world" # icon pack : https://themify.me/themify-icons
+  #  link : "#"
 
   # contact item loop
-  - name : "1313 Boulevard Cremazie,Quebec"
+  - name : "ANU University, Canberra, ACT, Australia"
     icon : "ti-location-pin" # icon pack : https://themify.me/themify-icons
     link : "#"
 
