@@ -52,7 +52,7 @@ weight = 1
 
 [[menu.main]]
 name = "How it works"
-URL = "scholarship"
+URL = "howitworks"
 weight = 2
 
 [[menu.main]]
@@ -62,7 +62,7 @@ weight = 3
 
 [[menu.main]]
 name = "Get Involved"
-URL = "contact2"
+URL = "getinvolved"
 weight = 4
 
 [[menu.main]]
@@ -91,7 +91,7 @@ weight = 3
 
 [[menu.footer]]
 name = "Get Involved"
-URL = "contact2"
+URL = "getinvolved"
 weight = 4
 
 [[menu.footer]]

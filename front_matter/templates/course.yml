@@ -28,6 +28,10 @@ fields:
   label: teacher
   description: 'Ex: John Doe'
 - type: text
+  name: team
+  label: team
+  description: 'Ex: John Doe'
+- type: text
   name: duration
   label: duration
   description: Course Duration

@@ -5,7 +5,7 @@ description: James studies at the Australian National University after recieving
   prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical
   Science.
 image: images/reddirt/James.webp
-course: President and Founder
+course: "President and Founder"
 bio: James studies at the Australian National University after recieving a prestigious
   Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science.
 interest:
