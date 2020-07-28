@@ -12,6 +12,7 @@ interest:
 - Aerospace Engineering and Rocketry
 - Political Science and International Relations
 - Cricket
+- Eating ham sandwiches
 contact:
   # contact item loop
   - name : "president@reddirtmentoring.org"
