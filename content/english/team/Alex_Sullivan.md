@@ -26,9 +26,9 @@ contact:
     link : "tel:+120345876"
 
   # contact item loop
-  - name : "Clark Malik"
-    icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
-    link : "#"
+  #- name : "Clark Malik"
+  #  icon : "ti-linkedin" # icon pack : https://themify.me/themify-icons
+  #  link : "#"
 
   # contact item loop
   - name : "1313 Boulevard Cremazie,Quebec"
