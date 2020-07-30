@@ -11,7 +11,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Register your school!"
         link : "contact"
 
     # slider item loop
@@ -22,7 +22,7 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
+        label : "Register your school!"
         link : "contact"
 
 
@@ -85,10 +85,10 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Great Success"
-  content : "Red dirt mentoring worked closely with several schools to assist students with their studies"
+  title : "Testimonials"
+  content : "Red Dirt tutosring have"
   # video link
   #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
