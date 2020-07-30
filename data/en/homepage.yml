@@ -85,9 +85,9 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : false
+  enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Testimonials"
+  title : "Hi"
   content : "Red Dirt tutosring have"
   # video link
   #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
