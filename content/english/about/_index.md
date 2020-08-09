@@ -12,7 +12,7 @@ description : "Red Dirt Mentoring was born out of the trials of COVID-19. As lea
 
 ### ABOUT OUR JOURNEY
 
-**Red Dirt** Mentoring was born out of the trials of COVID-19. As learning rapidly
+**Red Dirt Mentoring** was born out of the trials of COVID-19. As learning rapidly
 moved online, it presented a unique opportunity; geographical location was no
 longer a barrier to tutoring! Quickly, our tutors reached out to schools across
 the country and now provide tutoring to disadvantaged students, regardless of

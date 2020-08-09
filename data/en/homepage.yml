@@ -82,6 +82,19 @@ cta:
     label : "register now"
     link : "contact"
 
+######################## Success story #############################
+success_story:
+  enable : true
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Testimonials"
+  content : "\"James and his team from Red Dirt tutoring have been excellent
+  with their communication, expertise and support. They have been accomodating
+  and flexible with their support of our school.\" - Matthew Beacroft, St. Mary's
+  of the Cross, Windsor"
+  # video link
+  #video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
 
 ############################# event ################################
 event:

@@ -10,7 +10,7 @@ image: "images/reddirt/Silhouette.webp"
 # course
 course: "Treasurer"
 # biography
-bio: "James studies at the Australian National University after recieving a prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical Science."
+bio: "James studies at the Australian National University after recieving a prestigious Tuckwell Scholarshiop. He is studying Aerospace Engineering and Policitical Science."
 # interest
 interest: ["Computer Networking","Computer Security","Human Computer Interfacing"]
 # contact info
