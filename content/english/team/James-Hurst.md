@@ -1,18 +1,16 @@
 ---
 title: James Hurst
 bg_image: images/backgrounds/page-title.jpg
-description: James studies at the Australian National University after recieving a
-  prestigious Tuckewell Scholarshio. He is studying Aerospace Engineering and Policitical
-  Science.
+description: James is a Brisbane boy. After graduating in 2019, he moved to Canberra to study Engineering and Arts at the Australian National University. He has a passion for all things STEM (but doesn't mind English either!), and loves mentoring.
 image: images/reddirt/James.webp
 course: "President and Founder"
-bio: James studies at the Australian National University after recieving a prestigious
-  Tuckwell Scholarship. He is studying Aerospace Engineering and Policitical Science.
+bio: James is a Brisbane boy. After graduating in 2019, he moved to Canberra to study Engineering and Arts at the Australian National University. He has a passion for all things STEM (but doesn't mind English either!), and loves mentoring.
 interest:
-- Aerospace Engineering and Rocketry
-- Political Science and International Relations
+- Engineering
+- Reading
 - Cricket
-- Eating ham sandwiches
+- Anything to do with rockets!
+- Asian Food
 contact:
   # contact item loop
   - name : "president@reddirtmentoring.org"
@@ -39,6 +37,6 @@ contact:
 # type
 type: "team"
 ---
-### About Me
+<!-- ### About Me -->
 
-Under construction
+<!-- Under construction -->
